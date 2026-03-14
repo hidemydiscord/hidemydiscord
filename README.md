@@ -1,16 +1,23 @@
-## Hi there 👋
+HideMyDiscord
+https://img.shields.io/badge/status-active-brightgreen
+https://img.shields.io/badge/license-MIT-blue
+https://img.shields.io/badge/platform-Windows-0078d7
 
-<!--
-**hidemydiscord/hidemydiscord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+HideMyDiscord — это простая и эффективная утилита для обхода блокировок Discord, YouTube и Telegram на территории РФ. Работает без VPN, не требует сложных настроек и полностью бесплатна.
 
-Here are some ideas to get you started:
+Программа является форком популярного репозитория и адаптирована для максимального удобства пользователей.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ Возможности
+✅ Стабильный доступ к Discord (включая голосовые каналы)
+
+✅ YouTube без замедлений и ограничений
+
+✅ Telegram работает как обычно
+
+✅ Не требуется установка дополнительного ПО
+
+✅ Мгновенное подключение (запустил .bat и пользуйся)
+
+✅ Не хранит логи и не собирает данные
+
+✅ Полностью бесплатно
